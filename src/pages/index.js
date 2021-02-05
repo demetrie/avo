@@ -10,19 +10,22 @@ const IndexPage = () => (
     <SEO title="Home" />
     
     
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
       <p>This is a stack</p>
     </div>
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
       <p>This is a stack</p>
     </div>
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
       <p>This is a stack</p>
     </div>
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
       <p>This is a stack</p>
     </div>
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
+      <p>This is a stack</p>
+    </div>
+    <div class="stack" style={{ marginBottom: `1.45rem`}}>
       <p>This is a stack</p>
     </div>
 
@@ -35,17 +38,3 @@ const IndexPage = () => (
 
 export default IndexPage
 
-
-//
-// dumpo
-/*
-
-
-
-    /*
-    // <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-    //  <Image />
-    //</div>
-    //<Link to="/page-2/">Go to page 2</Link> <br />
-    //<Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-*/
