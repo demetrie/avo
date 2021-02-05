@@ -11,20 +11,9 @@ const IndexPage = () => (
     
     
     <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
-      <p>This is a stack/p>
+      <p>This is a stack</p>
     </div>
 
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
-      <p>This is a stack/p>
-    </div>
-
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
-      <p>This is a stack/p>
-    </div>
-
-    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
-      <p>This is a stack/p>
-    </div>
 
 
 
