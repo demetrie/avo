@@ -13,8 +13,32 @@ const IndexPage = () => (
     <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
       <p>This is a stack</p>
     </div>
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack</p>
+    </div>
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack</p>
+    </div>
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack</p>
+    </div>
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack</p>
+    </div>
 
 
+
+
+
+  </Layout>
+)
+
+export default IndexPage
+
+
+//
+// dumpo
+/*
 
 
 
@@ -24,8 +48,4 @@ const IndexPage = () => (
     //</div>
     //<Link to="/page-2/">Go to page 2</Link> <br />
     //<Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-    */
-  </Layout>
-)
-
-export default IndexPage
+*/
