@@ -8,13 +8,34 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>SALTWATER</h1>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+    
+    
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack/p>
     </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack/p>
+    </div>
+
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack/p>
+    </div>
+
+    <div style={{ marginBottom: `1.45rem`, class: 'stack'}}>
+      <p>This is a stack/p>
+    </div>
+
+
+
+
+    /*
+    // <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    //  <Image />
+    //</div>
+    //<Link to="/page-2/">Go to page 2</Link> <br />
+    //<Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    */
   </Layout>
 )
 
